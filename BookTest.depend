@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1510279733 source:/home/edwin/Development/CodeBlocks/BookTest/main.cpp
+	<iostream>
+	"encabezado.h"
+
+1510279879 /home/edwin/Development/CodeBlocks/BookTest/encabezado.h
+	<iostream>
+	<limits>
+
